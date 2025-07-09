@@ -1,0 +1,54 @@
+### Test API Status
+GET http://localhost:8000/
+Accept: application/json
+
+###
+
+### Check if model is loaded
+GET http://localhost:8000/
+Accept: application/json
+
+###
+
+### Upload Excel File for Prediction
+POST http://localhost:8000/predict
+Content-Type: multipart/form-data; boundary=boundary
+
+--boundary
+Content-Disposition: form-data; name="file"; filename="test_data.xlsx"
+Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+
+< ./test_data.xlsx
+--boundary--
+
+###
+
+### Check Job Status (replace 'your-job-id' with actual job ID from upload response)
+GET http://localhost:8000/status/your-job-id-here
+Accept: application/json
+
+###
+
+### List All Jobs
+GET http://localhost:8000/jobs
+Accept: application/json
+
+###
+
+### Download Results (replace 'your-job-id' with actual job ID)
+GET http://localhost:8000/download/your-job-id-here
+
+###
+
+### Upload New Model
+POST http://localhost:8000/upload-model
+Content-Type: multipart/form-data; boundary=boundary
+
+--boundary
+Content-Disposition: form-data; name="file"; filename="new_model.keras"
+Content-Type: application/octet-stream
+
+< ./models/new_model.keras
+--boundary--
+
+###

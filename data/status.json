@@ -1,0 +1,10 @@
+{
+  "status": "active",
+  "message": "Processing row 66/3217",
+  "timestamp": "2025-07-08T20:52:48.104007",
+  "last_update": "2025-07-08T20:52:48.104007",
+  "model_accuracy": 100.0,
+  "predictions_today": 57,
+  "sequence_length": 96,
+  "prediction_horizon": 4
+}

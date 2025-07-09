@@ -1,0 +1,2702 @@
+[
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:51:53.435250",
+    "data": {
+      "rowNumber": 17,
+      "timestamp": "2025-06-01 07:01:53",
+      "real_power": 50.0,
+      "daily_prod": 0.09,
+      "ac_current": 0.2,
+      "ac_voltage": 231.3,
+      "temp_inverter": 37.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.03
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:51:53.498432",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 07:16:53",
+          "predicted_power": 59.568765732873075,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 07:31:53",
+          "predicted_power": 58.96185804510612,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 07:46:53",
+          "predicted_power": 63.91745151301925,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 08:01:53",
+          "predicted_power": 76.0327085577629,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 17
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:51:54.529136",
+    "data": {
+      "rowNumber": 18,
+      "timestamp": "2025-06-01 07:08:18",
+      "real_power": 50.0,
+      "daily_prod": 0.1,
+      "ac_current": 0.2,
+      "ac_voltage": 231.3,
+      "temp_inverter": 37.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.01
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:51:54.564500",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 07:23:18",
+          "predicted_power": 54.91894263506014,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 07:38:18",
+          "predicted_power": 60.805818526086576,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 07:53:18",
+          "predicted_power": 67.5087750233218,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 08:08:18",
+          "predicted_power": 65.19777094247432,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 18
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:51:55.609251",
+    "data": {
+      "rowNumber": 19,
+      "timestamp": "2025-06-01 07:14:44",
+      "real_power": 110.0,
+      "daily_prod": 0.11,
+      "ac_current": 0.4,
+      "ac_voltage": 230.8,
+      "temp_inverter": 37.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.02
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:51:55.660938",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 07:29:44",
+          "predicted_power": 113.77939120526827,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 07:44:44",
+          "predicted_power": 117.46600746718796,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 07:59:44",
+          "predicted_power": 121.49999649033305,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 08:14:44",
+          "predicted_power": 130.27368232732968,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 19
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:51:56.718338",
+    "data": {
+      "rowNumber": 20,
+      "timestamp": "2025-06-01 07:21:09",
+      "real_power": 240.0,
+      "daily_prod": 0.12,
+      "ac_current": 1.0,
+      "ac_voltage": 231.9,
+      "temp_inverter": 38.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.02
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:51:56.818136",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 07:36:09",
+          "predicted_power": 248.07422167280072,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 07:51:09",
+          "predicted_power": 250.02201246303844,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 08:06:09",
+          "predicted_power": 245.71162117139596,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 08:21:09",
+          "predicted_power": 265.59134615516126,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 20
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:51:57.892529",
+    "data": {
+      "rowNumber": 21,
+      "timestamp": "2025-06-01 07:27:37",
+      "real_power": 300.0,
+      "daily_prod": 0.15,
+      "ac_current": 1.2,
+      "ac_voltage": 231.8,
+      "temp_inverter": 38.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.06
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:51:57.978801",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 07:42:37",
+          "predicted_power": 315.1743798750307,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 07:57:37",
+          "predicted_power": 322.14024240973686,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 08:12:37",
+          "predicted_power": 319.40947686655386,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 08:27:37",
+          "predicted_power": 330.50498112244475,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 21
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:51:59.047254",
+    "data": {
+      "rowNumber": 22,
+      "timestamp": "2025-06-01 07:34:02",
+      "real_power": 200.0,
+      "daily_prod": 0.18,
+      "ac_current": 0.9,
+      "ac_voltage": 231.4,
+      "temp_inverter": 39.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.01
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:51:59.129229",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 07:49:02",
+          "predicted_power": 201.61157178870008,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 08:04:02",
+          "predicted_power": 216.5215300467933,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 08:19:02",
+          "predicted_power": 239.78038303908414,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 08:34:02",
+          "predicted_power": 244.7748048125732,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 22
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:00.185495",
+    "data": {
+      "rowNumber": 23,
+      "timestamp": "2025-06-01 07:40:28",
+      "real_power": 110.0,
+      "daily_prod": 0.2,
+      "ac_current": 0.4,
+      "ac_voltage": 231.5,
+      "temp_inverter": 40.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.03
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:00.243733",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 07:55:28",
+          "predicted_power": 118.61170607913739,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 08:10:28",
+          "predicted_power": 117.97178648106693,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 08:25:28",
+          "predicted_power": 139.55401632905722,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 08:40:28",
+          "predicted_power": 146.24325796669925,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 23
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:01.273501",
+    "data": {
+      "rowNumber": 24,
+      "timestamp": "2025-06-01 07:46:53",
+      "real_power": 210.0,
+      "daily_prod": 0.22,
+      "ac_current": 0.9,
+      "ac_voltage": 231.3,
+      "temp_inverter": 40.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.02
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:01.305114",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 08:01:53",
+          "predicted_power": 219.16588829571663,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 08:16:53",
+          "predicted_power": 210.3287976733931,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 08:31:53",
+          "predicted_power": 248.362640590379,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 08:46:53",
+          "predicted_power": 247.45653119738785,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 24
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:02.338348",
+    "data": {
+      "rowNumber": 25,
+      "timestamp": "2025-06-01 07:53:18",
+      "real_power": 450.0,
+      "daily_prod": 0.26,
+      "ac_current": 1.9,
+      "ac_voltage": 231.7,
+      "temp_inverter": 41.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.03
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:02.369813",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 08:08:18",
+          "predicted_power": 461.9862370664836,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 08:23:18",
+          "predicted_power": 439.94244593522285,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 08:38:18",
+          "predicted_power": 491.87618546602164,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 08:53:18",
+          "predicted_power": 511.13733794513786,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 25
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:03.425138",
+    "data": {
+      "rowNumber": 26,
+      "timestamp": "2025-06-01 07:59:45",
+      "real_power": 470.0,
+      "daily_prod": 0.31,
+      "ac_current": 2.0,
+      "ac_voltage": 231.9,
+      "temp_inverter": 42.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 49.99
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:03.461375",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 08:14:45",
+          "predicted_power": 494.4280756695481,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 08:29:45",
+          "predicted_power": 513.980283879515,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 08:44:45",
+          "predicted_power": 550.8156250403179,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 08:59:45",
+          "predicted_power": 575.8162015099614,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 26
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:04.512504",
+    "data": {
+      "rowNumber": 27,
+      "timestamp": "2025-06-01 08:06:10",
+      "real_power": 200.0,
+      "daily_prod": 0.35,
+      "ac_current": 0.8,
+      "ac_voltage": 231.1,
+      "temp_inverter": 43.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 49.99
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:04.561983",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 08:21:10",
+          "predicted_power": 233.2425820183646,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 08:36:10",
+          "predicted_power": 212.3071687776726,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 08:51:10",
+          "predicted_power": 247.39850187641667,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 09:06:10",
+          "predicted_power": 249.19245614971595,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 27
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:05.588561",
+    "data": {
+      "rowNumber": 28,
+      "timestamp": "2025-06-01 08:12:36",
+      "real_power": 210.0,
+      "daily_prod": 0.37,
+      "ac_current": 0.9,
+      "ac_voltage": 231.1,
+      "temp_inverter": 44.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:05.618272",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 08:27:36",
+          "predicted_power": 232.99803056595374,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 08:42:36",
+          "predicted_power": 240.8405547177463,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 08:57:36",
+          "predicted_power": 262.00503369789095,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 09:12:36",
+          "predicted_power": 260.5545711442878,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 28
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:06.648959",
+    "data": {
+      "rowNumber": 29,
+      "timestamp": "2025-06-01 08:19:00",
+      "real_power": 200.0,
+      "daily_prod": 0.39,
+      "ac_current": 0.8,
+      "ac_voltage": 230.5,
+      "temp_inverter": 44.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:06.685919",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 08:34:00",
+          "predicted_power": 207.40541711828755,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 08:49:00",
+          "predicted_power": 230.83323558611144,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 09:04:00",
+          "predicted_power": 236.5645645834555,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 09:19:00",
+          "predicted_power": 254.40739671681135,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 29
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:07.722610",
+    "data": {
+      "rowNumber": 30,
+      "timestamp": "2025-06-01 08:25:27",
+      "real_power": 250.0,
+      "daily_prod": 0.42,
+      "ac_current": 1.1,
+      "ac_voltage": 230.6,
+      "temp_inverter": 44.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.03
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:07.773885",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 08:40:27",
+          "predicted_power": 256.9951915363868,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 08:55:27",
+          "predicted_power": 277.34891282911,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 09:10:27",
+          "predicted_power": 279.1461932691007,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 09:25:27",
+          "predicted_power": 310.3074459344727,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 30
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:08.821547",
+    "data": {
+      "rowNumber": 31,
+      "timestamp": "2025-06-01 08:31:56",
+      "real_power": 270.0,
+      "daily_prod": 0.44,
+      "ac_current": 1.1,
+      "ac_voltage": 230.0,
+      "temp_inverter": 45.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:08.883176",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 08:46:56",
+          "predicted_power": 303.79795601831506,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 09:01:56",
+          "predicted_power": 316.9208262427589,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 09:16:56",
+          "predicted_power": 290.7235732318562,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 09:31:56",
+          "predicted_power": 330.27665136104,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 31
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:09.929266",
+    "data": {
+      "rowNumber": 32,
+      "timestamp": "2025-06-01 08:38:19",
+      "real_power": 670.0,
+      "daily_prod": 0.5,
+      "ac_current": 2.9,
+      "ac_voltage": 230.7,
+      "temp_inverter": 45.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.04
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:09.994518",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 08:53:19",
+          "predicted_power": 683.7775578627372,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 09:08:19",
+          "predicted_power": 694.6020401056635,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 09:23:19",
+          "predicted_power": 821.1586057193555,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 09:38:19",
+          "predicted_power": 669.6348094432282,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 32
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:11.047186",
+    "data": {
+      "rowNumber": 33,
+      "timestamp": "2025-06-01 08:44:46",
+      "real_power": 620.0,
+      "daily_prod": 0.56,
+      "ac_current": 2.6,
+      "ac_voltage": 230.8,
+      "temp_inverter": 46.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:11.110256",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 08:59:46",
+          "predicted_power": 635.7680804852612,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 09:14:46",
+          "predicted_power": 687.6600040956173,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 09:29:46",
+          "predicted_power": 681.9186819289546,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 09:44:46",
+          "predicted_power": 736.1907628096106,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 33
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:12.169029",
+    "data": {
+      "rowNumber": 34,
+      "timestamp": "2025-06-01 08:51:12",
+      "real_power": 600.0,
+      "daily_prod": 0.63,
+      "ac_current": 2.6,
+      "ac_voltage": 230.6,
+      "temp_inverter": 47.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 49.99
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:12.213602",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 09:06:12",
+          "predicted_power": 650.095624719529,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 09:21:12",
+          "predicted_power": 669.0610267881252,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 09:36:12",
+          "predicted_power": 684.8035253674167,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 09:51:12",
+          "predicted_power": 722.5521026122938,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 34
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:13.257902",
+    "data": {
+      "rowNumber": 35,
+      "timestamp": "2025-06-01 08:57:37",
+      "real_power": 540.0,
+      "daily_prod": 0.68,
+      "ac_current": 2.3,
+      "ac_voltage": 230.2,
+      "temp_inverter": 48.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:13.332809",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 09:12:37",
+          "predicted_power": 584.4398897535406,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 09:27:37",
+          "predicted_power": 593.0899256169014,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 09:42:37",
+          "predicted_power": 598.3404924285943,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 09:57:37",
+          "predicted_power": 695.6216709583955,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 35
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:14.398830",
+    "data": {
+      "rowNumber": 36,
+      "timestamp": "2025-06-01 09:04:02",
+      "real_power": 330.0,
+      "daily_prod": 0.73,
+      "ac_current": 1.4,
+      "ac_voltage": 230.3,
+      "temp_inverter": 48.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 49.98
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:14.455174",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 09:19:02",
+          "predicted_power": 348.9827721925484,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 09:34:02",
+          "predicted_power": 359.9400510514228,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 09:49:02",
+          "predicted_power": 391.93587561645535,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 10:04:02",
+          "predicted_power": 417.90898749981193,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 36
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:15.524436",
+    "data": {
+      "rowNumber": 37,
+      "timestamp": "2025-06-01 09:10:28",
+      "real_power": 200.0,
+      "daily_prod": 0.76,
+      "ac_current": 0.8,
+      "ac_voltage": 229.7,
+      "temp_inverter": 49.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:15.574534",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 09:25:28",
+          "predicted_power": 201.0890823875495,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 09:40:28",
+          "predicted_power": 231.19211700046418,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 09:55:28",
+          "predicted_power": 263.63471619212,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 10:10:28",
+          "predicted_power": 269.4946698981959,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 37
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:16.624136",
+    "data": {
+      "rowNumber": 38,
+      "timestamp": "2025-06-01 09:16:54",
+      "real_power": 160.0,
+      "daily_prod": 0.78,
+      "ac_current": 0.7,
+      "ac_voltage": 229.5,
+      "temp_inverter": 49.0,
+      "cumulative_prod": 4607.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:16.677322",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 09:31:54",
+          "predicted_power": 161.2684612865512,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 09:46:54",
+          "predicted_power": 188.5822427521074,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 10:01:54",
+          "predicted_power": 197.43162791209463,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 10:16:54",
+          "predicted_power": 199.06149001869468,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 38
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:17.730033",
+    "data": {
+      "rowNumber": 39,
+      "timestamp": "2025-06-01 09:23:19",
+      "real_power": 130.0,
+      "daily_prod": 0.8,
+      "ac_current": 0.5,
+      "ac_voltage": 228.9,
+      "temp_inverter": 49.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:17.764907",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 09:38:19",
+          "predicted_power": 143.89471733551989,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 09:53:19",
+          "predicted_power": 144.30884427366942,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 10:08:19",
+          "predicted_power": 158.07372696822432,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 10:23:19",
+          "predicted_power": 149.69460337891843,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 39
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:18.803951",
+    "data": {
+      "rowNumber": 40,
+      "timestamp": "2025-06-01 09:29:44",
+      "real_power": 110.0,
+      "daily_prod": 0.81,
+      "ac_current": 0.4,
+      "ac_voltage": 228.5,
+      "temp_inverter": 48.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.02
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:18.850976",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 09:44:44",
+          "predicted_power": 91.51656595135357,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 09:59:44",
+          "predicted_power": 113.72357127844988,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 10:14:44",
+          "predicted_power": 114.17116031185218,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 10:29:44",
+          "predicted_power": 114.25072813515175,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 40
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:19.913241",
+    "data": {
+      "rowNumber": 41,
+      "timestamp": "2025-06-01 09:36:09",
+      "real_power": 110.0,
+      "daily_prod": 0.82,
+      "ac_current": 0.5,
+      "ac_voltage": 229.0,
+      "temp_inverter": 48.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 49.99
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:19.976142",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 09:51:09",
+          "predicted_power": 107.45853531140357,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 10:06:09",
+          "predicted_power": 102.41856651857029,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 10:21:09",
+          "predicted_power": 104.21151136865004,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 10:36:09",
+          "predicted_power": 99.08989269425834,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 41
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:21.025289",
+    "data": {
+      "rowNumber": 42,
+      "timestamp": "2025-06-01 09:42:36",
+      "real_power": 110.0,
+      "daily_prod": 0.84,
+      "ac_current": 0.5,
+      "ac_voltage": 229.0,
+      "temp_inverter": 47.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.01
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:21.108752",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 09:57:36",
+          "predicted_power": 108.19464766316622,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 10:12:36",
+          "predicted_power": 105.11748833591702,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 10:27:36",
+          "predicted_power": 85.62936187517738,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 10:42:36",
+          "predicted_power": 82.6527293709124,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 42
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:22.159704",
+    "data": {
+      "rowNumber": 43,
+      "timestamp": "2025-06-01 09:49:01",
+      "real_power": 120.0,
+      "daily_prod": 0.85,
+      "ac_current": 0.5,
+      "ac_voltage": 229.0,
+      "temp_inverter": 46.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:22.244143",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 10:04:01",
+          "predicted_power": 103.49928198205119,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 10:19:01",
+          "predicted_power": 104.01111471413138,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 10:34:01",
+          "predicted_power": 98.52399659523964,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 10:49:01",
+          "predicted_power": 61.03904817474531,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 43
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:23.296164",
+    "data": {
+      "rowNumber": 44,
+      "timestamp": "2025-06-01 09:55:26",
+      "real_power": 160.0,
+      "daily_prod": 0.86,
+      "ac_current": 0.6,
+      "ac_voltage": 229.1,
+      "temp_inverter": 46.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.03
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:23.353167",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 10:10:26",
+          "predicted_power": 141.6184766882239,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 10:25:26",
+          "predicted_power": 132.08125421867885,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 10:40:26",
+          "predicted_power": 106.5335137245276,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 10:55:26",
+          "predicted_power": 111.64266865081689,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 44
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:24.422846",
+    "data": {
+      "rowNumber": 45,
+      "timestamp": "2025-06-01 10:01:51",
+      "real_power": 190.0,
+      "daily_prod": 0.88,
+      "ac_current": 0.8,
+      "ac_voltage": 229.4,
+      "temp_inverter": 45.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 49.97
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:24.494607",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 10:16:51",
+          "predicted_power": 179.6391304517205,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 10:31:51",
+          "predicted_power": 178.0786906345337,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 10:46:51",
+          "predicted_power": 133.0867544012631,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 11:01:51",
+          "predicted_power": 139.25470599640795,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 45
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:25.547372",
+    "data": {
+      "rowNumber": 46,
+      "timestamp": "2025-06-01 10:08:17",
+      "real_power": 210.0,
+      "daily_prod": 0.91,
+      "ac_current": 0.9,
+      "ac_voltage": 229.1,
+      "temp_inverter": 45.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.01
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:25.635894",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 10:23:17",
+          "predicted_power": 176.21878315494303,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 10:38:17",
+          "predicted_power": 203.2717430310574,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 10:53:17",
+          "predicted_power": 165.57977853573436,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 11:08:17",
+          "predicted_power": 166.24648648427024,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 46
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:26.696128",
+    "data": {
+      "rowNumber": 47,
+      "timestamp": "2025-06-01 10:14:44",
+      "real_power": 190.0,
+      "daily_prod": 0.93,
+      "ac_current": 0.8,
+      "ac_voltage": 229.1,
+      "temp_inverter": 45.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.01
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:26.764364",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 10:29:44",
+          "predicted_power": 188.29273604137998,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 10:44:44",
+          "predicted_power": 173.02401406884738,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 10:59:44",
+          "predicted_power": 134.20971487467656,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 11:14:44",
+          "predicted_power": 137.7246262959003,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 47
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:27.814399",
+    "data": {
+      "rowNumber": 48,
+      "timestamp": "2025-06-01 10:21:09",
+      "real_power": 200.0,
+      "daily_prod": 0.95,
+      "ac_current": 0.9,
+      "ac_voltage": 227.8,
+      "temp_inverter": 45.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 49.99
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:27.882371",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 10:36:09",
+          "predicted_power": 174.90779378690948,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 10:51:09",
+          "predicted_power": 138.90695435939395,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 11:06:09",
+          "predicted_power": 144.66735772307428,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 11:21:09",
+          "predicted_power": 130.98881268723727,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 48
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:28.945509",
+    "data": {
+      "rowNumber": 49,
+      "timestamp": "2025-06-01 10:27:36",
+      "real_power": 250.0,
+      "daily_prod": 0.97,
+      "ac_current": 1.1,
+      "ac_voltage": 231.4,
+      "temp_inverter": 44.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:28.992668",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 10:42:36",
+          "predicted_power": 234.95368595224704,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 10:57:36",
+          "predicted_power": 225.03710482942128,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 11:12:36",
+          "predicted_power": 194.14437278439527,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 11:27:36",
+          "predicted_power": 156.83496800103813,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 49
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:30.034165",
+    "data": {
+      "rowNumber": 50,
+      "timestamp": "2025-06-01 10:34:01",
+      "real_power": 310.0,
+      "daily_prod": 1.0,
+      "ac_current": 1.3,
+      "ac_voltage": 233.6,
+      "temp_inverter": 44.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:30.106702",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 10:49:01",
+          "predicted_power": 276.14791635654325,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 11:04:01",
+          "predicted_power": 310.2447462363077,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 11:19:01",
+          "predicted_power": 265.7376419115466,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 11:34:01",
+          "predicted_power": 267.4014737622547,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 50
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:31.155938",
+    "data": {
+      "rowNumber": 51,
+      "timestamp": "2025-06-01 10:40:28",
+      "real_power": 340.0,
+      "daily_prod": 1.04,
+      "ac_current": 1.4,
+      "ac_voltage": 233.8,
+      "temp_inverter": 44.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.01
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:31.231257",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 10:55:28",
+          "predicted_power": 345.7722129833917,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 11:10:28",
+          "predicted_power": 298.3988680191745,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 11:25:28",
+          "predicted_power": 292.2021641508164,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 11:40:28",
+          "predicted_power": 266.35417331506426,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 51
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:32.287456",
+    "data": {
+      "rowNumber": 52,
+      "timestamp": "2025-06-01 10:46:52",
+      "real_power": 450.0,
+      "daily_prod": 1.08,
+      "ac_current": 1.9,
+      "ac_voltage": 233.8,
+      "temp_inverter": 45.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 49.98
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:32.372638",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 11:01:52",
+          "predicted_power": 410.82404379224533,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 11:16:52",
+          "predicted_power": 456.9766638900411,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 11:31:52",
+          "predicted_power": 439.04187464685305,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 11:46:52",
+          "predicted_power": 405.37600479333184,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 52
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:33.455667",
+    "data": {
+      "rowNumber": 53,
+      "timestamp": "2025-06-01 10:53:18",
+      "real_power": 440.0,
+      "daily_prod": 1.14,
+      "ac_current": 1.9,
+      "ac_voltage": 233.9,
+      "temp_inverter": 45.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 49.99
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:33.520803",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 11:08:18",
+          "predicted_power": 452.14223798865316,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 11:23:18",
+          "predicted_power": 468.8692959536437,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 11:38:18",
+          "predicted_power": 434.6167928947963,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 11:53:18",
+          "predicted_power": 454.08043502019603,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 53
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:34.587373",
+    "data": {
+      "rowNumber": 54,
+      "timestamp": "2025-06-01 10:59:45",
+      "real_power": 310.0,
+      "daily_prod": 1.17,
+      "ac_current": 1.3,
+      "ac_voltage": 233.5,
+      "temp_inverter": 46.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:34.661749",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 11:14:45",
+          "predicted_power": 327.9929942930215,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 11:29:45",
+          "predicted_power": 312.1091177893366,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 11:44:45",
+          "predicted_power": 337.6692322514586,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 11:59:45",
+          "predicted_power": 323.83402415054326,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 54
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:35.702756",
+    "data": {
+      "rowNumber": 55,
+      "timestamp": "2025-06-01 11:06:10",
+      "real_power": 180.0,
+      "daily_prod": 1.2,
+      "ac_current": 0.7,
+      "ac_voltage": 233.4,
+      "temp_inverter": 46.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 49.99
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:35.743558",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 11:21:10",
+          "predicted_power": 192.76811785027212,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 11:36:10",
+          "predicted_power": 196.44550129902873,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 11:51:10",
+          "predicted_power": 212.9841354740758,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 12:06:10",
+          "predicted_power": 213.6950070520517,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 55
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:36.798396",
+    "data": {
+      "rowNumber": 56,
+      "timestamp": "2025-06-01 11:12:37",
+      "real_power": 220.0,
+      "daily_prod": 1.22,
+      "ac_current": 0.9,
+      "ac_voltage": 233.4,
+      "temp_inverter": 46.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:36.875736",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 11:27:37",
+          "predicted_power": 245.11777500560243,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 11:42:37",
+          "predicted_power": 256.63712277515697,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 11:57:37",
+          "predicted_power": 240.62809375985432,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 12:12:37",
+          "predicted_power": 258.4064714231438,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 56
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:37.931011",
+    "data": {
+      "rowNumber": 57,
+      "timestamp": "2025-06-01 11:19:03",
+      "real_power": 330.0,
+      "daily_prod": 1.25,
+      "ac_current": 1.4,
+      "ac_voltage": 233.5,
+      "temp_inverter": 46.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.01
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:37.987489",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 11:34:03",
+          "predicted_power": 321.4899871286844,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 11:49:03",
+          "predicted_power": 324.3026303998439,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 12:04:03",
+          "predicted_power": 366.11956817524543,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 12:19:03",
+          "predicted_power": 366.0214395333943,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 57
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:39.050786",
+    "data": {
+      "rowNumber": 58,
+      "timestamp": "2025-06-01 11:25:28",
+      "real_power": 460.0,
+      "daily_prod": 1.29,
+      "ac_current": 1.9,
+      "ac_voltage": 234.4,
+      "temp_inverter": 45.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.02
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:39.117227",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 11:40:28",
+          "predicted_power": 494.7394337251009,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 11:55:28",
+          "predicted_power": 510.0315832741638,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 12:10:28",
+          "predicted_power": 502.3480300208942,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 12:25:28",
+          "predicted_power": 565.3854470746079,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 58
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:40.181080",
+    "data": {
+      "rowNumber": 59,
+      "timestamp": "2025-06-01 11:31:54",
+      "real_power": 720.0,
+      "daily_prod": 1.35,
+      "ac_current": 3.0,
+      "ac_voltage": 234.6,
+      "temp_inverter": 46.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 49.98
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:40.266385",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 11:46:54",
+          "predicted_power": 726.9875122724466,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 12:01:54",
+          "predicted_power": 726.269182540865,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 12:16:54",
+          "predicted_power": 809.5790074797089,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 12:31:54",
+          "predicted_power": 780.3803676714546,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 59
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:41.322932",
+    "data": {
+      "rowNumber": 60,
+      "timestamp": "2025-06-01 11:38:18",
+      "real_power": 900.0,
+      "daily_prod": 1.45,
+      "ac_current": 3.8,
+      "ac_voltage": 234.8,
+      "temp_inverter": 46.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:41.385045",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 11:53:18",
+          "predicted_power": 939.9164698074603,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 12:08:18",
+          "predicted_power": 1014.1124793945396,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 12:23:18",
+          "predicted_power": 965.4506962011849,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 12:38:18",
+          "predicted_power": 1010.3994410348502,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 60
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:42.434207",
+    "data": {
+      "rowNumber": 61,
+      "timestamp": "2025-06-01 11:44:44",
+      "real_power": 1040.0,
+      "daily_prod": 1.54,
+      "ac_current": 4.4,
+      "ac_voltage": 234.4,
+      "temp_inverter": 47.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.03
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:42.499251",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 11:59:44",
+          "predicted_power": 1038.059931317264,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 12:14:44",
+          "predicted_power": 1108.834464586774,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 12:29:44",
+          "predicted_power": 1114.4384417708034,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 12:44:44",
+          "predicted_power": 1173.9815227892414,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 61
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:43.555643",
+    "data": {
+      "rowNumber": 62,
+      "timestamp": "2025-06-01 11:51:11",
+      "real_power": 770.0,
+      "daily_prod": 1.63,
+      "ac_current": 3.3,
+      "ac_voltage": 233.6,
+      "temp_inverter": 48.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 49.99
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:43.637711",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 12:06:11",
+          "predicted_power": 801.5252023847994,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 12:21:11",
+          "predicted_power": 792.4481996664849,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 12:36:11",
+          "predicted_power": 849.5044733830323,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 12:51:11",
+          "predicted_power": 939.5676809021613,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 62
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:44.718016",
+    "data": {
+      "rowNumber": 63,
+      "timestamp": "2025-06-01 11:57:36",
+      "real_power": 1050.0,
+      "daily_prod": 1.75,
+      "ac_current": 4.5,
+      "ac_voltage": 233.7,
+      "temp_inverter": 49.0,
+      "cumulative_prod": 4608.0,
+      "ac_freq": 50.01
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:44.795461",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 12:12:36",
+          "predicted_power": 1157.5259991246062,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 12:27:36",
+          "predicted_power": 1060.5361329432492,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 12:42:36",
+          "predicted_power": 1211.321155562572,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 12:57:36",
+          "predicted_power": 1208.833083589863,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 63
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:45.839451",
+    "data": {
+      "rowNumber": 64,
+      "timestamp": "2025-06-01 12:04:02",
+      "real_power": 1040.0,
+      "daily_prod": 1.86,
+      "ac_current": 4.4,
+      "ac_voltage": 233.5,
+      "temp_inverter": 50.0,
+      "cumulative_prod": 4609.0,
+      "ac_freq": 50.0
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:45.891064",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 12:19:02",
+          "predicted_power": 1124.9432719591905,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 12:34:02",
+          "predicted_power": 1074.9933612080426,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 12:49:02",
+          "predicted_power": 1225.9046715525512,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 13:04:02",
+          "predicted_power": 1221.1597496325544,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 64
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:46.931547",
+    "data": {
+      "rowNumber": 65,
+      "timestamp": "2025-06-01 12:10:28",
+      "real_power": 1040.0,
+      "daily_prod": 1.97,
+      "ac_current": 4.4,
+      "ac_voltage": 232.5,
+      "temp_inverter": 51.0,
+      "cumulative_prod": 4609.0,
+      "ac_freq": 49.97
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:46.987287",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 12:25:28",
+          "predicted_power": 958.7667927823395,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 12:40:28",
+          "predicted_power": 1234.4227952071462,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 12:55:28",
+          "predicted_power": 1192.935235425259,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 13:10:28",
+          "predicted_power": 1342.5428969059005,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 65
+    }
+  },
+  {
+    "type": "data",
+    "timestamp": "2025-07-08T20:52:48.038917",
+    "data": {
+      "rowNumber": 66,
+      "timestamp": "2025-06-01 12:16:53",
+      "real_power": 1040.0,
+      "daily_prod": 2.08,
+      "ac_current": 4.5,
+      "ac_voltage": 232.1,
+      "temp_inverter": 52.0,
+      "cumulative_prod": 4609.0,
+      "ac_freq": 49.96
+    }
+  },
+  {
+    "type": "prediction",
+    "timestamp": "2025-07-08T20:52:48.088511",
+    "data": {
+      "predictions": [
+        {
+          "predictionNumber": 1,
+          "timestamp": "2025-06-01 12:31:53",
+          "predicted_power": 1042.0999345437917,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 2,
+          "timestamp": "2025-06-01 12:46:53",
+          "predicted_power": 1126.0181943352343,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 3,
+          "timestamp": "2025-06-01 13:01:53",
+          "predicted_power": 1231.0558406356108,
+          "method": "Trend-based",
+          "confidence": 60
+        },
+        {
+          "predictionNumber": 4,
+          "timestamp": "2025-06-01 13:16:53",
+          "predicted_power": 1286.3247360144803,
+          "method": "Trend-based",
+          "confidence": 60
+        }
+      ],
+      "method": "Trend-based",
+      "confidence": 60,
+      "sequence_length": 66
+    }
+  }
+]
